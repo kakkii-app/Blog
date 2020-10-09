@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Bitchiu</title>
     <link>https://sam-ngu.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Bitchiu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Oct 2020 16:35:58 +0800</lastBuildDate><atom:link href="https://sam-ngu.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Fri, 09 Oct 2020 16:35:58 +0800</pubDate>
       
       <guid>https://sam-ngu.github.io/posts/first-post/</guid>
-      <description></description>
+      <description>Hey theyeeere Hey theyeeere Hey theyeeere Hey theyeeere Hey theyeeere </description>
     </item>
     
   </channel>
